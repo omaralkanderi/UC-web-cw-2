@@ -1,0 +1,23 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+div{
+    background-color: blue;
+
+
+    border-bottom: 2px solid rgba(0, 0, 0, 0.686);
+ 
+
+}
+body{
+    border: dotted;
+}
+.class{
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+}
+#dish-name{
+    color: white;
+}
